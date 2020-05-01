@@ -24,3 +24,5 @@ urlpatterns = [
     path('logout/', views.user_logout, name='logout'),
     path('special/', views.special, name='special'),
 ]
+
+# This is a test
